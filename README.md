@@ -23,28 +23,31 @@ Created this comprehensive project on MS-Excel to showcase rise and fall of bike
 
 -Is there a correlation between income level and type/price of bike purchased?
 
-## Dashboard Created
-- <href="https://github.com/Vivek-Newhere/Yamaha-Bikes-Sales-Dashboard/blob/main/Bike_sales_dashboard_image.jpg>View Dashboard</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -Do customers who commute longer distances purchase more bikes?
 
 -Which distance range shows the highest conversion rate?
+## Dashboard Created
+- <a href="https://github.com/Vivek-Newhere/Yamaha-Bikes-Sales-Dashboard/blob/main/Bike_sales_dashboard_image.jpg">View Dashboard</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
