@@ -26,8 +26,12 @@ Created this comprehensive project on MS-Excel to showcase rise and fall of bike
 -Do customers who commute longer distances purchase more bikes?
 
 -Which distance range shows the highest conversion rate?
+
+-How to analyse the data with interactive dashbaord? - <a href="https://github.com/Vivek-Newhere/Yamaha-Bikes-Sales-Dashboard/blob/main/Bike_sales_dashboard_image.jpg">View Dashboard</a>
 ## Dashboard Created
-- <a href="https://github.com/Vivek-Newhere/Yamaha-Bikes-Sales-Dashboard/blob/main/Bike_sales_dashboard_image.jpg">View Dashboard</a>
+![Bike_sales_dashboard_image](https://github.com/user-attachments/assets/ff1721d9-b071-4782-8352-6fd873a3bc79)
+
+
 
 
 
