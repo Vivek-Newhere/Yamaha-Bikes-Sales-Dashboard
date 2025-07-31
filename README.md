@@ -7,13 +7,23 @@ Created this comprehensive project on MS-Excel to showcase rise and fall of bike
 -Which customer segment (based on income, age, gender) contributes most to total sales?
 
 -What percentage of bike buyers are male vs female?
+
 -Which gender has a higher average purchase value?
+
 -Which age group buys the most bikes?
+
 -What is the average income of bike buyers across age groups?
+
 -Do married customers buy more bikes compared to single customers?
+
+
 -What is the average purchase value of married vs single customers?
+
 -What is the distribution of bike sales across different income brackets?
+
 -Is there a correlation between income level and type/price of bike purchased?
+
 -Do customers who commute longer distances purchase more bikes?
+
 -Which distance range shows the highest conversion rate?
 
