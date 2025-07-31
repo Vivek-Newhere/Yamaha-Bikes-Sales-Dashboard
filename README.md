@@ -5,6 +5,7 @@ Created this comprehensive project on MS-Excel to showcase rise and fall of bike
 - <a href= "https://github.com/Vivek-Newhere/Yamaha-Bikes-Sales-Dashboard/blob/main/Bike_RawData.xlsx">Yamaha Bike Data(FY2023-24)</a>
 ## KPIs Addressed
 -Which customer segment (based on income, age, gender) contributes most to total sales?
+
 -What percentage of bike buyers are male vs female?
 -Which gender has a higher average purchase value?
 -Which age group buys the most bikes?
